@@ -1,23 +1,21 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thiago Cantarini</h1>
 <h3 align="center">A student learning Web Developer and Solidity</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagocantarini" alt="thiagocantarini" /> </p>
 
 - 🔭 I’m currently working on [ICO project](https://tropicalorg.com)
 - 📚 Learning **JavaScript, SOLIDITY, NODEJS**
-
 - 📫 How to reach me **thiagobrancocantarini5@gmail.com**
-
 - ⚡ Looking for a **mentor**
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ThiagoCantarini&show_icons=true" alt="ThiagoCantarini"/> 
-</p>
+ <div>
+  <a href="https://github.com/ThiagoCantarini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoCantarini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCantarini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-<p align="center">
-<a href="https://twitter.com/picolinoth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thiagocantarini" height="20" width="20" /></a>
-<a href="https://instagram.com/thiago_picolino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thiagocantarini" height="20" width="20" /></a>
-</p>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
