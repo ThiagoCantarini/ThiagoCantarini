@@ -32,4 +32,4 @@
    ![Snake animation](https://github.com/ThiagoCantarini/ThiagoCantarini/blob/output/github-contribution-grid-snake.svg)
 
  
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThiagoCantarini" alt="ThiagoCantarini" /> </p>
