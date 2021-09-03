@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **thiagobrancocantarini5@gmail.com**
 
-- ⚡ Fun fact **kokushibo 😜**
+- ⚡ Looking **mentor**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
