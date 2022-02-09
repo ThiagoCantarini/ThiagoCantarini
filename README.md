@@ -18,7 +18,7 @@
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img style="width: 560px" align="right" alt="blockchain" src="https://cdn.discordapp.com/attachments/824737750967124049/941085909204496404/spring-role-lead.gif">
+   <img style="width: 560px" align="right" alt="blockchain" src="https://cdn.discordapp.com/attachments/824737750967124049/941088985646768138/1_GsQhwX2VdAZCSxkc7rJl7g.gif">
 </div>
  
   ##
